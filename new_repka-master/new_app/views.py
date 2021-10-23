@@ -1,8 +1,6 @@
 from django.shortcuts import render
 
-# Create your views here.
-
-from stock.models import Stock
+from new_app.models import Stock
 
 
 def stock_list(request):

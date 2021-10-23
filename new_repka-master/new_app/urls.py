@@ -1,6 +1,6 @@
 from django.urls import path
 
-from stock.views import stock_list
+from new_app.views import stock_list
 
 
 urlpatterns = [
